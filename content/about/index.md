@@ -15,7 +15,7 @@ I am a cloud-first data engineer who is eager to develop useful solutions and is
 
 ### Experience:
 #### Data Engineer
-*NTT Data Business Solutions Turkey / Now 2021 - Current*
+*NTT Data Business Solutions Turkey / Nov 2021 - Current*
 
 - Working on numerous cloud development projects on AWS and Azure platforms
 - Developing with AWS IoT Core, MQTT, AWS Lambda, Kinesis Data Stream, Kinesis Firehose, AWS Redshift, Azure Synapse, Azure data factory, Azure Functions

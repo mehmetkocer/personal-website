@@ -4,8 +4,6 @@ title = "About Me"
 
 I am a cloud-first data engineer who is eager to develop useful solutions and is excited to learn new technologies. I focused on solution not the technology, and always read for understanding the problem before diving into coding it. I listen to my teammates carefully and loves to give or receive any kind of feedback.
 
-[Github](https://github.com/mehmetkocer) [LinkedIN](https://linkedin.com/in/mehmetkocer) [Mail me!](mehmetkocer@proton.me)
-
 ### Teck Stack:
 **Programming Languages:** Python, Java, Scala, Shell Script, SQL
 

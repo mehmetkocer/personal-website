@@ -22,7 +22,7 @@ I am a cloud-first data engineer who is eager to develop useful solutions and is
 - Data mining from web browsers, IoT devices
 
 #### Data Engineer Intern
-*VNGRS / Jun 2021 - September 2021*
+*VNGRS / Jun 2021 - Sep 2021*
 - Learning Cloud fundamentals, specifically AWS services
 - Development of several cloud services using AWS Glue, Lambda and Kinesis
 - Experience with CI/CD components
@@ -34,3 +34,6 @@ I am a cloud-first data engineer who is eager to develop useful solutions and is
 - Twitter trends analyzer - [Github](https://github.com/mehmetkocer/Twitter-Trend-Analyzer)
 
 ### Hobbies:
+- Running
+- Hiking
+- Cycling
